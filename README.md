@@ -20,7 +20,6 @@
   
   <img align="center" alt="Andrés" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
    
-  <img align="right" alt="Andrés" height="150" style="border-radius:90px" src="https://pbs.twimg.com/profile_images/989265860190552064/1vsE94l9_400x400.jpg">
 </div>
   
   ##
