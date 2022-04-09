@@ -2,7 +2,6 @@
 ## Hi 👋  Welcome to my profile...
 
 <div align="center">  
-  <img src="https://raw.githubusercontent.com/lafvg12/lafvg12/output/github-contribution-grid-snake.svg" />
   <a href="https://github.com/lafvg12">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lafvg12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lafvg12&show_icons=true&theme=dark"/>
@@ -28,4 +27,5 @@
 <div>  
   <a href = "luisitog1228@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">    </a>
   <a href="https://www.linkedin.com/in/luis-andrés-fernández-vega/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-   the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  ![snake gif](https://github.com/lafvg12/lafvg12/blob/output/github-contribution-grid-snake.gif)
+   <img src="https://raw.githubusercontent.com/lafvg12/lafvg12/output/github-contribution-grid-snake.svg" />
+
